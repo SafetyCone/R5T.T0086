@@ -4,6 +4,8 @@ using System.Text;
 
 using Microsoft.Extensions.Logging;
 
+using R5T.Magyar;
+
 using R5T.T0086;
 
 using IMicrosoftLogger = Microsoft.Extensions.Logging.ILogger;
